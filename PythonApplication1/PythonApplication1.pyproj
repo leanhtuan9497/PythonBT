@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>41ecdddc-43bc-44a4-b606-cfb177fac38d</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Bai8.py</StartupFile>
+    <StartupFile>Bai9.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
